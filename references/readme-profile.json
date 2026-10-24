@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 298｜Charcoal Mark: keeps the photo and reduces its subject to one small semi-abstract charcoal-and-ink mark with the lowest information that still triggers recognition — an economy of marks where every stroke shows force, direction and speed, loose on the surface but structurally accurate, with outlines that need not close and may break, drift or stay uncertain — in charcoal, graphite and ink gesture on fibrous warm white paper, with erasures, residue, shifting density and ragged edges, plus only a little low-saturation colour from the photo, isolated in extreme whitespace with a short art-archive note or number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-298 or asks for a charcoal totem, semi-abstract ink mark or minimal gestural emblem from a photo.",
+  "short_description": "炭笔印记：把照片主体收成炭笔、石墨和墨迹留下的半抽象小印记，带擦痕与残留",
+  "zh-CN": {
+    "name": "炭笔印记",
+    "tagline": "把照片主体收成一枚由炭笔、石墨和墨迹留下的半抽象小印记。",
+    "look": "原照片保留；主体只剩能触发识别的最低信息量，从具象慢慢变成一个小图腾。每一道痕迹都要承担识别，表现力量、方向和速度，看上去松散，结构却准确；轮廓不必闭合，可以断裂、偏移、不确定。材质是炭笔、石墨、墨迹和纸纤维，局部有擦除、残留、浓淡变化和毛糙边缘，像留下了时间的痕迹。暖白纸面上以黑灰为主，只有很少一点低饱和的主题色。印记孤立在大片留白里，旁边一个短词或编号像艺术档案里的注释。",
+    "traits": ["炭笔墨迹", "半抽象", "痕迹经济", "暖白纸", "符号孤立"],
+    "good": [
+      "体块和姿态鲜明的主体：一头牛、一块礁石、一个坐着的人、一只乌鸦",
+      "有重量感或时间感的对象：老树桩、石桥、旧瓦罐",
+      "想做成艺术档案标记、画廊符号或个人印记的照片"
+    ],
+    "poor": [
+      "需要干净清晰、一眼就能读懂的用途：导视图标、产品标志",
+      "想保留照片色彩或明亮配色的需求",
+      "想要完整描绘、卡通符号、机械几何或光滑矢量的需求"
+    ]
+  },
+  "en": {
+    "name": "Charcoal Mark",
+    "tagline": "Reduces the subject of your photo to one small semi-abstract mark left by charcoal, graphite and ink.",
+    "look": "Your photo stays; the subject keeps only the least information that still triggers recognition, turning from a likeness into a small totem. Every mark has to carry identity, showing force, direction and speed, loose on the surface but structurally accurate; outlines need not close and may break, drift or stay uncertain. The materials are charcoal, graphite, ink and paper fibre, with erasures, residue, shifting density and ragged edges that feel like traces of time. Black and grey dominate the warm white paper, with only a touch of low-saturation colour from the photo. The mark is isolated in wide whitespace, with a short word or number like a note in an art archive.",
+    "traits": ["Charcoal and ink", "Semi-abstract", "Economy of marks", "Warm white paper", "Isolated symbol"],
+    "good": [
+      "Subjects with strong mass and posture: a cow, a rock in the sea, a seated person, a crow",
+      "Things with a sense of weight or age: an old tree stump, a stone bridge, a worn clay pot",
+      "Photos you want as an art-archive mark, a gallery symbol or a personal seal"
+    ],
+    "poor": [
+      "Uses that need something clean and instantly readable: wayfinding icons, product logos",
+      "Wanting the photo's colours kept or a bright palette",
+      "Requests for a complete drawing, cartoon symbols, mechanical geometry or smooth vectors"
+    ]
+  },
+  "ja": {
+    "name": "木炭のしるし",
+    "tagline": "写真の主役を、木炭、鉛筆、墨が残した半抽象の小さなしるしにします。",
+    "look": "元の写真は残し、主役は見分けがつく最小限の情報だけにして、具象から少しずつ小さなトーテムへと変えます。一本一本の跡が正体を担い、力、方向、速さを表します。表面はゆるくても構造は正確で、輪郭は閉じなくてよく、途切れ、ずれ、あいまいなままでもかまいません。素材は木炭、鉛筆、墨、紙の繊維で、ところどころに消し跡、残り、濃淡の変化、ざらついた縁があり、時間の跡のように見えます。温かな白い紙に黒とグレーが中心で、写真から取った彩度の低い色がほんの少しだけ入ります。しるしは広い余白に孤立し、アートアーカイブの注記のような短い言葉か番号が添えられます。",
+    "traits": ["木炭と墨", "半抽象", "痕跡の節約", "温かな白い紙", "孤立した記号"],
+    "good": [
+      "量感と姿勢がはっきりした主役：牛、海の岩、座る人、カラス",
+      "重さや時間を感じる対象：古い切り株、石橋、使い込んだ素焼きの壺",
+      "アートアーカイブのマーク、ギャラリーの記号、個人の印にしたい写真"
+    ],
+    "poor": [
+      "すっきりして一目で読める必要がある用途：案内サイン、製品ロゴ",
+      "写真の色を残したい場合や、明るい配色を求める場合",
+      "完全な描写、キャラクター的な記号、機械的な幾何学、なめらかなベクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "목탄 인장",
+    "tagline": "사진 속 주인공을 목탄, 흑연, 먹이 남긴 반추상의 작은 표식으로 줄입니다.",
+    "look": "원본 사진은 남기고, 주인공은 알아보게 하는 최소한의 정보만 남겨 구상에서 작은 토템으로 서서히 바꿉니다. 자국 하나하나가 정체를 맡아 힘, 방향, 속도를 드러내며, 겉은 느슨해도 구조는 정확합니다. 윤곽은 닫히지 않아도 되고 끊기거나 어긋나거나 불확실하게 남아도 됩니다. 재료는 목탄, 흑연, 먹, 종이 섬유이며 군데군데 지운 자국, 남은 흔적, 농담 변화, 거친 가장자리가 있어 시간의 흔적처럼 보입니다. 따뜻한 흰 종이에 검정과 회색이 중심이고, 사진에서 가져온 채도 낮은 색이 아주 조금 들어갑니다. 표식은 넓은 여백에 홀로 있고, 예술 아카이브 주석 같은 짧은 단어나 번호가 붙습니다.",
+    "traits": ["목탄과 먹", "반추상", "흔적의 절약", "따뜻한 흰 종이", "고립된 심벌"],
+    "good": [
+      "덩어리감과 자세가 뚜렷한 주인공: 소, 바다의 바위, 앉아 있는 사람, 까마귀",
+      "무게나 세월이 느껴지는 대상: 오래된 그루터기, 돌다리, 낡은 질항아리",
+      "예술 아카이브 마크, 갤러리 심벌, 개인 인장으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "깔끔하고 한눈에 읽혀야 하는 용도: 안내 아이콘, 제품 로고",
+      "사진의 색을 살리거나 밝은 색을 원하는 경우",
+      "완전한 묘사, 만화 같은 기호, 기계적인 기하학, 매끈한 벡터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "علامة الفحم",
+    "tagline": "يختصر العنصر الرئيسي في صورتك في علامة صغيرة شبه مجرّدة تركها الفحم والغرافيت والحبر.",
+    "look": "تبقى صورتك، ولا يبقى من العنصر إلا أقل قدر من المعلومات يكفي للتعرف عليه، فيتحول من شبه إلى طوطم صغير. على كل أثر أن يحمل الهوية، فيُظهر القوة والاتجاه والسرعة، مرتخياً في ظاهره دقيقاً في بنيته، والخط الخارجي لا يلزم أن ينغلق، وقد ينقطع أو ينزاح أو يبقى مبهماً. المواد فحم وغرافيت وحبر وألياف ورق، مع آثار محو وبقايا وتفاوت في الكثافة وحواف خشنة كأنها آثار الزمن. يغلب الأسود والرمادي على الورق الأبيض الدافئ، مع لمسة ضئيلة من لون قليل التشبع من الصورة. العلامة معزولة وسط فراغ واسع، ومعها كلمة قصيرة أو رقم كملاحظة في أرشيف فني.",
+    "traits": ["فحم وحبر", "شبه تجريدي", "اقتصاد الأثر", "ورق أبيض دافئ", "رمز معزول"],
+    "good": [
+      "عناصر ذات كتلة ووضعية قوية: بقرة، صخرة في البحر، شخص جالس، غراب",
+      "أشياء فيها إحساس بالثقل أو العمر: جذع شجرة قديم، جسر حجري، جرّة فخار مستعملة",
+      "صور تريدها علامة لأرشيف فني أو رمزاً لصالة عرض أو ختماً شخصياً"
+    ],
+    "poor": [
+      "استخدامات تحتاج شيئاً نظيفاً يُقرأ فوراً: أيقونات الإرشاد، شعارات المنتجات",
+      "الرغبة في الاحتفاظ بألوان الصورة أو في ألوان زاهية",
+      "طلب رسم كامل أو رموز كرتونية أو هندسة آلية أو رسوم متجهية ناعمة"
+    ]
+  }
+}

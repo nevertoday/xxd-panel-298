@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-298
-description: "Create XXD Panel 298 raster artwork: a faithful photograph paired with one semi-abstract charcoal emblem, few marks, erasure and a large isolated field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-298 or asks for this 炭笔印记 style."
+description: "XXD Panel 298｜Charcoal Mark: keeps the photo and reduces its subject to one small semi-abstract charcoal-and-ink mark with the lowest information that still triggers recognition — an economy of marks where every stroke shows force, direction and speed, loose on the surface but structurally accurate, with outlines that need not close and may break, drift or stay uncertain — in charcoal, graphite and ink gesture on fibrous warm white paper, with erasures, residue, shifting density and ragged edges, plus only a little low-saturation colour from the photo, isolated in extreme whitespace with a short art-archive note or number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-298 or asks for a charcoal totem, semi-abstract ink mark or minimal gestural emblem from a photo."
 ---
 
 # XXD Panel 298
